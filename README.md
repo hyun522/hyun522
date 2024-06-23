@@ -3,8 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Introduction </h2>  
+    <br />
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 묵묵하게 성장하는 중입니다 🐢  </div> 
     </div>
+    <br /><br /> 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -19,15 +21,24 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
           <br/></div>
     </div>
+    <br /><br /> 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📱 My social </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@jhj1004v/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jhj1004v/posts"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    <br /><br /> 
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hyun522&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun522&layout=compact&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+        <br />
+          <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun522&layout=compact&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
+           />
+        </div>
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=hyun522&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
+         />
+         </div> 
     </div>
     
