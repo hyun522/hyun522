@@ -16,7 +16,7 @@
           <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
           <img src="https://img.shields.io/badge/TypeScript-3077C6?style=flat-square&logo=TypeScript&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
@@ -30,16 +30,6 @@
     <div align= "center">  </div> 
     </div>
     <br /><br /> 
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-        <br />
-          <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun522&layout=compact&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
-           />
-        </div>
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=hyun522&bg_color=180,fafafa,00000000&title_color=000000&text_color=000000"
-         />
-         </div> 
-    </div>
+
+</div>
     
